@@ -1,0 +1,1149 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4376,37.7577 ]
+    },
+    "properties": {
+    "GeoHipster":"Mano Marks",
+    "Photo URL":"<a href=\"https://twitter.com/ManoMarks/statuses/482701001817083904\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 149.1291486,-35.2812211 ]
+    },
+    "properties": {
+    "GeoHipster":"Hugh Saalmans",
+    "Photo URL":"<a href=\"https://twitter.com/minus34/statuses/487888904129744896\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.4640924,40.5515985 ]
+    },
+    "properties": {
+    "GeoHipster":"Atanas Entchev",
+    "Photo URL":"<a href=\"https://twitter.com/atanas/statuses/470274837462536193\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.0476647,36.7674971 ]
+    },
+    "properties": {
+    "GeoHipster":"Don Meltz",
+    "Photo URL":"<a href=\"https://twitter.com/DonMeltz/statuses/491705687932534787\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.207515,49.258734 ]
+    },
+    "properties": {
+    "GeoHipster":"Glenn Letham",
+    "Photo URL":"<a href=\"http://instagram.com/p/q-imi3Euui\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.4953409,50.9875199 ]
+    },
+    "properties": {
+    "GeoHipster":"Nicholas Duggan",
+    "Photo URL":"<a href=\"https://twitter.com/Dragons8mycat/status/500362909634285568/photo/1\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.645686,49.10969 ]
+    },
+    "properties": {
+    "GeoHipster":"Mark Ireland",
+    "Photo URL":"<a href=\"https://twitter.com/FMEEvangelist/status/516793496238555137\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.4811724,43.9959875 ]
+    },
+    "properties": {
+    "GeoHipster":"Mike Dolbow, David Bitner",
+    "Photo URL":"<a href=\"https://twitter.com/bitnerd/status/517831752346107904/photo/1\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.490585,37.770701 ]
+    },
+    "properties": {
+    "GeoHipster":"Christina Boggs",
+    "Photo URL":"<a href=\"http://instagram.com/p/ttQXEchbfC/\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.9250825,35.9584634 ]
+    },
+    "properties": {
+    "GeoHipster":"Randal Hale",
+    "Photo URL":"<a href=\"https://twitter.com/rjhale/status/522798170666205184\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.2266484,44.4925904 ]
+    },
+    "properties": {
+    "GeoHipster":"Bill Morris",
+    "Photo URL":"<a href=\"https://twitter.com/vtcraghead/status/524932189008715776\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.669037,41.456622 ]
+    },
+    "properties": {
+    "GeoHipster":"Will Skora",
+    "Photo URL":"<a href=\"https://twitter.com/skorasaurus/status/528318678312689664\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.9370211,49.1731669 ]
+    },
+    "properties": {
+    "GeoHipster":"Jason Birch",
+    "Photo URL":"<a href=\"http://geohipster.com/wp-content/uploads/2014/07/Jason-Birch.jpg\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.595094,45.589769 ]
+    },
+    "properties": {
+    "GeoHipster":"Mike Dolbow",
+    "Photo URL":"<a href=\"https://twitter.com/mmdolbow/status/549045150509318146\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.111523,39.707987 ]
+    },
+    "properties": {
+    "GeoHipster":"John Reiser",
+    "Photo URL":"<a href=\"http://instagram.com/p/xRpbkLJPpa/\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1393719,51.5902188 ]
+    },
+    "properties": {
+    "GeoHipster":"Steven Feldman",
+    "Photo URL":"<a href=\"https://twitter.com/StevenFeldman/status/559048506602971136/photo/1\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.857219,45.6838015 ]
+    },
+    "properties": {
+    "GeoHipster":"François Goulet",
+    "Photo URL":"<a href=\"https://twitter.com/fgcartographix/status/559174433114296321\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.5505373,51.3150968 ]
+    },
+    "properties": {
+    "GeoHipster":"Simon Miles",
+    "Photo URL":"<a href=\"https://twitter.com/geosmiles/status/560025532491112449/photo/1\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.2614785,44.870697 ]
+    },
+    "properties": {
+    "GeoHipster":"andest01",
+    "Photo URL":"<a href=\"https://twitter.com/andest01/status/563052695360405505\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0145666,38.8993487 ]
+    },
+    "properties": {
+    "GeoHipster":"Nick Furness",
+    "Photo URL":"<a href=\"https://twitter.com/jonahadkins/status/565571196683825153\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.299634,55.975209 ]
+    },
+    "properties": {
+    "GeoHipster":"Ross McDonald",
+    "Photo URL":"<a href=\"https://twitter.com/mixedbredie/status/566563409718968321/photo/1\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.8502101,46.1596 ]
+    },
+    "properties": {
+    "GeoHipster":"Steven Feldman",
+    "Photo URL":"<a href=\"https://twitter.com/StevenFeldman/status/566682024745132032\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.3614785,44.970697 ]
+    },
+    "properties": {
+    "GeoHipster":"David Bitner",
+    "Photo URL":"<a href=\"https://twitter.com/bitnerd/status/568428188835008512\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.082085,37.420721 ]
+    },
+    "properties": {
+    "GeoHipster":"Mano Marks",
+    "Photo URL":"<a href=\"https://twitter.com/ManoMarks/status/570646247360442369\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.8629674,18.5246164 ]
+    },
+    "properties": {
+    "GeoHipster":"Srikant Panda",
+    "Photo URL":"<a href=\"http://geohipster.com/wp-content/uploads/2014/07/Srikant-Panda.jpg\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.36527,37.59361 ]
+    },
+    "properties": {
+    "GeoHipster":"David Bitner",
+    "Photo URL":"<a href=\"https://twitter.com/rjhale/status/575831817363722240\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.270501,37.808074 ]
+    },
+    "properties": {
+    "GeoHipster":"Christina Boggs",
+    "Photo URL":"<a href=\"https://twitter.com/rockoncali/status/576921253186949120\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.907389,45.692111 ]
+    },
+    "properties": {
+    "GeoHipster":"François Goulet",
+    "Photo URL":"<a href=\"https://twitter.com/fgcartographix/status/579282946571571200\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.115071,26.022291 ]
+    },
+    "properties": {
+    "GeoHipster":"François Goulet",
+    "Photo URL":"<a href=\"https://twitter.com/fgcartographix/status/587228984301072385/photo/1\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.870431,14.059977 ]
+    },
+    "properties": {
+    "GeoHipster":"Antonio Locandro",
+    "Photo URL":"<a href=\"https://twitter.com/antoniolocandro/status/594589820602683392\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.8935976,57.7009921 ]
+    },
+    "properties": {
+    "GeoHipster":"Abdishakur Hassan",
+    "Photo URL":"<a href=\"https://twitter.com/shakasom/status/599166855543152640\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.4004929,50.9167526 ]
+    },
+    "properties": {
+    "GeoHipster":"Gary Gale",
+    "Photo URL":"<a href=\"https://twitter.com/vicchi/status/607818435033239552\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9968262,40.7290199 ]
+    },
+    "properties": {
+    "GeoHipster":"Stephen Mather",
+    "Photo URL":"<a href=\"https://twitter.com/geohipster/status/607932045810126848\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.0831083,45.7897645 ]
+    },
+    "properties": {
+    "GeoHipster":"Martin Isenburg",
+    "Photo URL":"<a href=\"https://www.facebook.com/LAStools/posts/935302956532149\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.085175,53.95833 ]
+    },
+    "properties": {
+    "GeoHipster":"Steven Feldman, Gary Gale",
+    "Photo URL":"<a href=\"https://twitter.com/kennethfield/status/641889582036881408\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.6773319,27.7789724 ]
+    },
+    "properties": {
+    "GeoHipster":"Coleman McCormick",
+    "Photo URL":"<a href=\"https://twitter.com/colemanm/status/642369319725346816\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.3462755,-33.6647085 ]
+    },
+    "properties": {
+    "GeoHipster":"Carl Anderson",
+    "Photo URL":"<a href=\"https://twitter.com/candrsn/status/645442545137266688/photo/1\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.4821895,47.6729347 ]
+    },
+    "properties": {
+    "GeoHipster":"Carl Anderson",
+    "Photo URL":"<a href=\"https://twitter.com/trippcor/status/656626166707585024\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.4192371,47.6601203 ]
+    },
+    "properties": {
+    "GeoHipster":"Ryan E. Bowe, Carl Anderson",
+    "Photo URL":"<a href=\"https://twitter.com/geometadata/status/657081636882743296\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.5611847,52.3237563 ]
+    },
+    "properties": {
+    "GeoHipster":"Steven Feldman",
+    "Photo URL":"<a href=\"https://twitter.com/elliothartley/status/669279604578852864\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.8487309,-41.5342927 ]
+    },
+    "properties": {
+    "GeoHipster":"Alex Leith",
+    "Photo URL":"<a href=\"https://twitter.com/alexgleith/status/691808847967719424\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.0856275,44.9577883 ]
+    },
+    "properties": {
+    "GeoHipster":"Kitty Hurley, Jacqueline Kovarik",
+    "Photo URL":"<a href=\"https://twitter.com/GeospatialEM/status/701848794321670144\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1220413,39.7121536 ]
+    },
+    "properties": {
+    "GeoHipster":"John Reiser",
+    "Photo URL":"<a href=\"https://twitter.com/johnjreiser/status/698895159531085826\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.2109954,-33.888586 ]
+    },
+    "properties": {
+    "GeoHipster":"Hugh Saalmans",
+    "Photo URL":"<a href=\"https://twitter.com/minus34/status/702728182122676225\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 153.0358035,-27.4844683 ]
+    },
+    "properties": {
+    "GeoHipster":"Nathan Woodrow",
+    "Photo URL":"<a href=\"https://twitter.com/madmanwoo/status/705574187750940672/photo/1\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.0615563,42.3576969 ]
+    },
+    "properties": {
+    "GeoHipster":"Michael Terner ",
+    "Photo URL":"<a href=\"https://twitter.com/MT_AppGeo/status/728548708980248576\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4679194,37.7980424 ]
+    },
+    "properties": {
+    "GeoHipster":"Stephanie May",
+    "Photo URL":"<a href=\"https://www.instagram.com/p/BFZZUobDoJG/\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.1898873,-6.161171 ]
+    },
+    "properties": {
+    "GeoHipster":"Stephen V. Mather",
+    "Photo URL":"<a href=\"https://twitter.com/smathermather/status/797137147757268992/photo/1\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.5869136,39.1974437 ]
+    },
+    "properties": {
+    "GeoHipster":"Terry Griffin",
+    "Photo URL":"<a href=\"https://twitter.com/SpacePlowboy/status/767745030886871040\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0340527,40.715982 ]
+    },
+    "properties": {
+    "GeoHipster":"Ralph Straumann, Atanas Entchev",
+    "Photo URL":"<a href=\"https://twitter.com/rastrau/status/763603188771614720\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0345961,40.7118164 ]
+    },
+    "properties": {
+    "GeoHipster":"Atanas Entchev, Ralph Straumann",
+    "Photo URL":"<a href=\"https://twitter.com/atanas/status/763582105179873281\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.0694165,44.7643455 ]
+    },
+    "properties": {
+    "GeoHipster":"Nathan Saylor",
+    "Photo URL":"<a href=\"https://twitter.com/gisn8/status/758004015926013952\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1069057,51.5236447 ]
+    },
+    "properties": {
+    "GeoHipster":"Gary Gale",
+    "Photo URL":"<a href=\"https://twitter.com/puntofisso/status/753646861119086592\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1016954,51.5082181 ]
+    },
+    "properties": {
+    "GeoHipster":"Gary Gale",
+    "Photo URL":"<a href=\"https://twitter.com/geomob/status/753646994275569664\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.5769867,39.2056517 ]
+    },
+    "properties": {
+    "GeoHipster":"Terry Griffin",
+    "Photo URL":"<a href=\"https://twitter.com/SpacePlowboy/status/805190867418050560/photo/1\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.706949,45.028543 ]
+    },
+    "properties": {
+    "GeoHipster":"Mike Dolbow",
+    "Photo URL":"<a href=\"http://geohipster.com/2017/01/17/making-geohipster-independent-business/\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.579738,35.086962 ]
+    },
+    "properties": {
+    "GeoHipster":"Kurt Menke",
+    "Photo URL":"<a href=\"https://mastodon.xyz/users/Geomenke/updates/139910\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.550055,47.3652481 ]
+    },
+    "properties": {
+    "GeoHipster":"Vasile Coțovanu",
+    "Photo URL":"<a href=\"https://twitter.com/rastrau/status/863039918003544065\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.7769538,-41.2868654 ]
+    },
+    "properties": {
+    "GeoHipster":"Andrea Sward",
+    "Photo URL":"<a href=\"https://www.instagram.com/p/BUA6fAgD3r-/?taken-by=geohipster\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.3044459,35.0453192 ]
+    },
+    "properties": {
+    "GeoHipster":"Randal Hale & Carl Anderson",
+    "Photo URL":"<a href=\"https://www.facebook.com/photo.php?fbid=480138145664984&set=a.135650210113781.1073741829.100010064080579&type=3&theater\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.0430986,42.3493215 ]
+    },
+    "properties": {
+    "GeoHipster":"François Goulet, Randal Hale",
+    "Photo URL":"<a href=\"https://twitter.com/fgcarto/status/897820929069338624/photo/1\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.0379775,42.3373249 ]
+    },
+    "properties": {
+    "GeoHipster":"François Goulet, Guido Stein, Mike Dolbow, David Bitner, Michael Terner, Randal Hale",
+    "Photo URL":"<a href=\"https://twitter.com/foss4g/status/898006683426881536/photo/1\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.0540357,42.3223114 ]
+    },
+    "properties": {
+    "GeoHipster":"Jim McAndrew, Randal Hale",
+    "Photo URL":"<a href=\"https://twitter.com/rjhale/status/898188155421065216/photo/1\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.9893421,1.3644256 ]
+    },
+    "properties": {
+    "GeoHipster":"Antonio Locandro",
+    "Photo URL":"<a href=\"https://twitter.com/antoniolocandro/status/916573012370980864\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.6553034,30.3241346 ]
+    },
+    "properties": {
+    "GeoHipster":"Carl Anderson, Ryan Bowe",
+    "Photo URL":"<a href=\"https://twitter.com/HilaryPerkins/status/923326731850743808?s=03\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.1945814,34.0572567 ]
+    },
+    "properties": {
+    "GeoHipster":"Damian Spangrud",
+    "Photo URL":"<a href=\"https://twitter.com/spangrud/status/930834381651902465\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.991693,41.1011459 ]
+    },
+    "properties": {
+    "GeoHipster":"Dave Smith",
+    "Photo URL":"<a href=\"https://pbs.twimg.com/media/DPkQicXX0AEGdy9.jpg\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.8463778,-37.6547552 ]
+    },
+    "properties": {
+    "GeoHipster":"Terry Griffin",
+    "Photo URL":"<a href=\"https://twitter.com/SpacePlowboy/status/969092234195779584/photo/1\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.716661,30.406838 ]
+    },
+    "properties": {
+    "GeoHipster":"Russell Taylor",
+    "Photo URL":"<a href=\"https://twitter.com/ret3/status/989883879854133248\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.1911363,38.6253399 ]
+    },
+    "properties": {
+    "GeoHipster":"Howard Butler",
+    "Photo URL":"<a href=\"https://twitter.com/geohipster/status/996379793825435649/photo/1\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.2349602,38.6595739 ]
+    },
+    "properties": {
+    "GeoHipster":"David Bitner",
+    "Photo URL":"<a href=\"https://twitter.com/geohipster/status/996417479571394560/photo/1\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.2995049,38.5847375 ]
+    },
+    "properties": {
+    "GeoHipster":"Terry Griffin",
+    "Photo URL":"<a href=\"https://twitter.com/rjhale/status/996897514983952384/photo/1\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.3619896,38.6222995 ]
+    },
+    "properties": {
+    "GeoHipster":"Michael Terner",
+    "Photo URL":"<a href=\"https://twitter.com/rjhale/status/997090035915571200/photo/1\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.1111545,39.7154945 ]
+    },
+    "properties": {
+    "GeoHipster":"Rachel Stevenson",
+    "Photo URL":"<a href=\"https://twitter.com/UUDreams/status/1004352223311204352\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.5862857,45.4870567 ]
+    },
+    "properties": {
+    "GeoHipster":"Terry Griffin",
+    "Photo URL":"<a href=\"https://twitter.com/SpacePlowboy/status/1010920713543438336\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.2709055,35.0753348 ]
+    },
+    "properties": {
+    "GeoHipster":"Randal Hale",
+    "Photo URL":"<a href=\"https://twitter.com/rjhale/status/1012774767819149315\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -54.5788072,-25.6909277 ]
+    },
+    "properties": {
+    "GeoHipster":"Michael Terner",
+    "Photo URL":"<a href=\"http://geohipster.com/wp-content/uploads/2018/07/Michael-Terner-in-Argentina.jpg\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.0623077,29.9559531 ]
+    },
+    "properties": {
+    "GeoHipster":"Raf Roset",
+    "Photo URL":"<a href=\"https://twitter.com/FakeRaf/status/1026965929819811840?s=17\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6644646,38.3072497 ]
+    },
+    "properties": {
+    "GeoHipster":"Bill Dollins",
+    "Photo URL":"<a href=\"https://twitter.com/billdollins/status/1028699517829439489\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.4856158,38.9761044 ]
+    },
+    "properties": {
+    "GeoHipster":"Joshua Stevens",
+    "Photo URL":"<a href=\"https://twitter.com/jscarto/status/1041105190441689088?s=17\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.4920807,41.8899626 ]
+    },
+    "properties": {
+    "GeoHipster":"Dave Smith",
+    "Photo URL":"<a href=\"https://twitter.com/DruidSmith/status/1041588851213561856\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0021812,40.4485212 ]
+    },
+    "properties": {
+    "GeoHipster":"Atanas Entchev",
+    "Photo URL":"<a href=\"https://twitter.com/atanas/status/1043604736111464448\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.2513059,46.7651382 ]
+    },
+    "properties": {
+    "GeoHipster":"Mike Dolbow, David Bitner",
+    "Photo URL":"<a href=\"https://twitter.com/MT_AppGeo/status/652345865269411840\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.996934,39.7553955 ]
+    },
+    "properties": {
+    "GeoHipster":"Peter Batty",
+    "Photo URL":"<a href=\"https://twitter.com/pmbatty/status/631258438836695040\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.9756433,38.888741 ]
+    },
+    "properties": {
+    "GeoHipster":"Bill Dollins",
+    "Photo URL":"<a href=\"https://twitter.com/billdollins/status/1048684874385772546\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.14217,-41.4367922 ]
+    },
+    "properties": {
+    "GeoHipster":"Alex Leith",
+    "Photo URL":"<a href=\"https://twitter.com/alexgleith/status/1077799486087299072\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.004833,43.5398755 ]
+    },
+    "properties": {
+    "GeoHipster":"Don Meltz & wife Terry",
+    "Photo URL":"\t\n<a href=\"https://www.facebook.com/photo.php?fbid=10211592234254261&set=p.10211592234254261&type=3&theater\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.8605209,-31.9537255 ]
+    },
+    "properties": {
+    "GeoHipster":"Terry Griffin",
+    "Photo URL":"<a href=\"https://twitter.com/SpacePlowboy/status/972696284107702272\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4311157,37.7661594 ]
+    },
+    "properties": {
+    "GeoHipster":"Steven Feldman",
+    "Photo URL":"<a href=\"https://twitter.com/StevenFeldman/status/597467035291914240\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.5846928,52.3461838 ]
+    },
+    "properties": {
+    "GeoHipster":"Steven Feldman",
+    "Photo URL":"<a href=\"https://twitter.com/elliothartley/status/670749200301297665\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.3098193,44.6350657 ]
+    },
+    "properties": {
+    "GeoHipster":"Don Meltz",
+    "Photo URL":"\t\n<a href=\"https://twitter.com/Don_MaristGeo/status/877941777361022977\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -21.1325508,64.2558593 ]
+    },
+    "properties": {
+    "GeoHipster":"Raf Roset",
+    "Photo URL":"<a href=\"https://twitter.com/FakeRaf/status/979824498055761921?s=17\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.320207,37.7357282 ]
+    },
+    "properties": {
+    "GeoHipster":"Randal Hale",
+    "Photo URL":"<a href=\"https://twitter.com/rjhale/status/951457338845777921?s=03\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9807253,43.554806 ]
+    },
+    "properties": {
+    "GeoHipster":"Don Meltz",
+    "Photo URL":"\t\n<a href=\"https://www.facebook.com/photo.php?fbid=10211592051809700&set=a.1372524465976.54718.1017704836&type=3&theater\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.0868496,46.8249959 ]
+    },
+    "properties": {
+    "GeoHipster":"Michael Terner, Mike Dolbow, David Bitner",
+    "Photo URL":"<a href=\"https://twitter.com/MT_AppGeo/status/791851587429728256\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.045946,50.7035559 ]
+    },
+    "properties": {
+    "GeoHipster":"Michael Terner",
+    "Photo URL":"<a href=\"https://twitter.com/MT_AppGeo/status/768703745609707520\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.0932634,28.6469655 ]
+    },
+    "properties": {
+    "GeoHipster":"Steven Ramage",
+    "Photo URL":"<a href=\"https://twitter.com/Steven_Ramage/status/642033536472510464/photo/1\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.9001867,60.1641013 ]
+    },
+    "properties": {
+    "GeoHipster":"Gary Gale",
+    "Photo URL":"<a href=\"https://twitter.com/vicchi/status/747133409777037312\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.2828908,36.0911613 ]
+    },
+    "properties": {
+    "GeoHipster":"Randal Hale",
+    "Photo URL":"<a href=\"https://twitter.com/rjhale/status/989154067342651394\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 153.3237028,-27.9869398 ]
+    },
+    "properties": {
+    "GeoHipster":"Nathan Woodrow",
+    "Photo URL":"<a href=\"https://twitter.com/madmanwoo/status/618601283436609536/photo/1\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9791728,-37.8009699 ]
+    },
+    "properties": {
+    "GeoHipster":"Hugh Saalmans",
+    "Photo URL":"<a href=\"https://www.youtube.com/watch?v=Q8tt5oiBmMc&feature=youtu.be\" target=\"_blank\">Video</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.2730585,-6.8228064 ]
+    },
+    "properties": {
+    "GeoHipster":"Alex Leith",
+    "Photo URL":"<a href=\"https://twitter.com/alexgleith/status/1035099502946992129\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8540529,42.2101536 ]
+    },
+    "properties": {
+    "GeoHipster":"Don Meltz & son Isaac",
+    "Photo URL":"<a href=\"https://www.facebook.com/photo.php?fbid=10211467953987332&set=a.1111219733521.19688.1017704836&type=3&theater\" target=\"_blank\">Photo</a>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8919042,42.2532299 ]
+    },
+    "properties": {
+    "GeoHipster":"Don Meltz & daughter Hilary",
+    "Photo URL":"<a href=\"https://www.facebook.com/photo.php?fbid=10211468607363666&set=p.10211468607363666&type=3&theater\" target=\"_blank\">Photo</a>"
+    }
+  }
+]
+}
